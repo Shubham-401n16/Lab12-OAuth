@@ -31,4 +31,5 @@
 npm test
 
 #### UML
-![UML Diagram](whiteboard.jpg)
+https://docs.google.com/spreadsheets/d/1T8HyAfXXTpg1RSD2j0qdOsBS2hpAVnUr2hlTwULHiZI/edit?usp=sharing
+
