@@ -1,0 +1,36 @@
+{
+  "name": "Lab12-OAuth",
+  "version": "1.0.0",
+  "description": "## Authentication",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test-watch": "jest --watchAll",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-401n16/Lab12-OAuth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham-401n16/Lab12-OAuth/issues"
+  },
+  "homepage": "https://github.com/Shubham-401n16/Lab12-OAuth#readme",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "bcrypt": "^4.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "superagent": "^5.2.2"
+  }
+}
