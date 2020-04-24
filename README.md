@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/Shubham-401n16/Lab12-OAuth/pull/1)
-* [Github Actions](https://github.com/Shubham-401n16/Lab12-OAuth/actions)
+* [Heroku_Deployment]
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
@@ -31,5 +31,5 @@
 npm test
 
 #### UML
-https://docs.google.com/spreadsheets/d/1T8HyAfXXTpg1RSD2j0qdOsBS2hpAVnUr2hlTwULHiZI/edit?usp=sharing
+
 
