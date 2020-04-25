@@ -42,6 +42,7 @@ There seem to be more pros than cons. The pros and cons listed above were taken 
 
 ### Code Demos
 * [code repository](https://github.com/Shubham-401n16/Lab12-OAuth/)
+* [Heroku App](https://lab12-oauth-linkedin.herokuapp.com/)
 
 ### Operating Instructions
 - create an .env file on the top level of this repo defining the following variables:
