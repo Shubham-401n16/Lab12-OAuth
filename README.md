@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/Shubham-401n16/Lab12-OAuth/pull/1)
-* [Heroku_Deployment]
+* [Heroku_Deployment](https://lab12-oauth-linkedin.herokuapp.com/)
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
